@@ -1,0 +1,34 @@
+<html>
+<head>
+<%= javascript_include_tag "prototype" %>
+</head>
+<body>
+<div id="graph" align="center">
+<img src="http://www.rootsweb.ancestry.com/~vafauqu2/IvyHill/FillerMS.JPG">
+</div>
+<form id="myform">
+<div align="center">
+<br><br>
+<textarea cols="30" rows="5" name="myname">
+Oh shit son, graph text.
+</textarea>
+<br>
+</form>
+<div id = "graph_div">
+<%= submit_to_remote( "graph_submit", 
+                          "Submit Graph",
+                         :update => "graph",
+                         :url =>{ :action => :say_when }, 
+                         :submit => "myform") %>
+</div>
+
+<div id= "regex_div">
+<%= submit_to_remote( "regex_submit", 
+                          "Submit Regex",
+                         :update => "graph",
+                         :url =>{ :action => :say_when }, 
+                         :submit => "myform") %>
+</div><br>
+</div>
+</body>
+</html>

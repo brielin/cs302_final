@@ -1,0 +1,4352 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:54:04) [GET]
+
+ActionController::RoutingError (No route matches "/item" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:55:45) [GET]
+
+ActionController::RoutingError (No route matches "/welcome" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:55:51) [GET]
+
+ActionController::RoutingError (No route matches "/welcome/" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:55:55) [GET]
+
+ActionController::RoutingError (No route matches "/welcome" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:56:38) [GET]
+
+ActionController::RoutingError (No route matches "/welcome/index" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:57:47) [GET]
+
+ActionController::RoutingError (No route matches "/welcome/index" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/welcome/index" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 22:57:54) [GET]
+
+ActionController::RoutingError (No route matches "/welcome" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:03:26) [GET]
+
+ActionController::RoutingError (No route matches "/welcome" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-04-18 23:04:55) [GET]
+Rendering welcome/index
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/welcome]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:27:39) [GET]
+
+ActionController::RoutingError (No route matches "/item" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:27:46) [GET]
+
+ActionController::RoutingError (No route matches "/item/new" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:28:02) [GET]
+
+ActionController::RoutingError (No route matches "/item/new" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:28:06) [GET]
+
+ActionController::RoutingError (No route matches "/item" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-18 23:31:15) [GET]
+
+ActionController::RoutingError (No route matches "/item/new" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:31:41) [GET]
+
+NameError (uninitialized constant ItemController::Item):
+  app/controllers/item_controller.rb:3:in `new'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (57.0ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:33:32) [GET]
+
+ActiveRecord::StatementInvalid (Could not find table 'items'):
+  app/controllers/item_controller.rb:3:in `new'
+  app/controllers/item_controller.rb:3:in `new'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (118.0ms)
+Rendered rescues/_request_and_response (2.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (4.0ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (3.0ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateItems (20090419033306)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mCREATE TABLE "items" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090419033306')[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("items")[0m
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:34:52) [GET]
+Rendering item/new
+
+ActionView::TemplateError (undefined method `name' for #<Item id: nil, created_at: nil, updated_at: nil>) on line #2 of app/views/item/new.html.erb:
+1: <%= form_tag :action => "create" %>
+2:    Name: <%= text_field "item", "name"
+3: %><br />
+4:    Value: <%= text_field "item", "value"
+5: %><br />
+
+    app/views/item/new.html.erb:2
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (120.0ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:36:45) [GET]
+Rendering item/new
+
+ActionView::TemplateError (wrong number of arguments (1 for 2)) on line #2 of app/views/item/new.html.erb:
+1: <%= form_tag :action => "create" %>
+2:    Name: <%= text_field "item" %><br />
+3:    Value: <%= text_field "item", "value"
+4: %><br />
+5:    <%= submit_tag %>
+
+    app/views/item/new.html.erb:2:in `text_field'
+    app/views/item/new.html.erb:2
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (65.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:37:14) [GET]
+Rendering item/new
+
+ActionView::TemplateError (undefined method `name' for #<Item id: nil, created_at: nil, updated_at: nil>) on line #2 of app/views/item/new.html.erb:
+1: <%= form_tag :action => "create" %>
+2:    Name: <%= text_field "item", "name" %><br />
+3:    Value: <%= text_field "item", "value"
+4: %><br />
+5:    <%= submit_tag %>
+
+    app/views/item/new.html.erb:2
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (69.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-18 23:43:40) [GET]
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:3: syntax error, unexpected '<'
+   <form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+    ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kEND
+   <form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+                             ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:3: syntax error, unexpected tIDENTIFIER, expecting kEND
+   <form name="myform" action="http://www.mydomain.com/myformhandler.cgi" method="POST">
+                                                                                ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:4: syntax error, unexpected '<'
+<div align="center">
+ ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:5: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+This is outside the area<br><br>
+       ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:5: syntax error, unexpected '<'
+This is outside the area<br><br>
+                             ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:6: syntax error, unexpected tIDENTIFIER, expecting kEND
+<textarea cols="40" rows="5" name="myname">
+                        ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:6: syntax error, unexpected tIDENTIFIER, expecting kEND
+<textarea cols="40" rows="5" name="myname">
+                                 ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:7: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+Now we are inside the area - which is nice.
+      ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:7: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+Now we are inside the area - which is nice.
+                                     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:9: syntax error, unexpected '<'
+<br><br>
+ ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:10: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+And now we are outside the area again.
+       ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: syntax error, unexpected '<'
+</form>
+ ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: unterminated string meets end of file):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (104.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:45:49) [GET]
+Rendering item/new
+Completed in 13ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:46:17) [GET]
+Rendering item/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:48:37) [GET]
+Rendering item/new
+Completed in 14ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-18 23:49:29) [GET]
+Rendering item/new
+Completed in 13ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 00:05:20) [GET]
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: syntax error, unexpected '<'
+    <img src="http://www.echoecho.com/rainbow.gif">
+     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:13: syntax error, unexpected kEND):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (112.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 00:05:49) [GET]
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: syntax error, unexpected '<'
+    <html>
+     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: syntax error, unexpected '<'
+    </html>
+     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: unterminated string meets end of file):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (50.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:06:52) [GET]
+Rendering item/new
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:07:31) [GET]
+Rendering item/new
+Completed in 13ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:08:15) [GET]
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:17) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x419793c>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (52.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:19) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x4fc7c50>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (49.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:21) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x4230d80>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (112.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:22) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x50bbcb0>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (54.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:23) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x4e57ab4>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (51.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:08:46) [GET]
+Rendering item/new
+Completed in 16ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:48) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x50effd8>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (51.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:50) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x4e86a44>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (51.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:08:50) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x51732fc>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (52.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:10:35) [GET]
+Rendering item/new
+Completed in 19ms (View: 9, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:11:51) [GET]
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:41) [GET]
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:42) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:44) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:46) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:57) [GET]
+  Parameters: {"myname"=>""}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:16:59) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 11ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:17:26) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:17:28) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:18:21) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 17ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:18:29) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:19:05) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:19:19) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:19:21) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+NoMethodError (undefined method `render_text' for #<ItemController:0x2d9d94>):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (51.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 00:19:41) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: syntax error, unexpected $end, expecting kEND):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (51.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 00:20:00) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: syntax error, unexpected $end, expecting kEND):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (115.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:20:11) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:20:13) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+
+ActionView::MissingTemplate (Missing template item/say_when.erb in view path app/views):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:21:56) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:21:57) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:29:20) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:29:41) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:31:22) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+ERROR: compiling _run_erb_app47views47item47new46html46erb RAISED compile error
+C:/Users/Owner/Rails/Project/app/views/item/new.html.erb:18: syntax error, unexpected '}', expecting ')'
+                   :action => :say_when }) ).to_s); @output_buffer.concat "\n"
+                                         ^
+Function body:           def _run_erb_app47views47item47new46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "<title>WebPage</title>\n"
+@output_buffer.concat(( javascript_include_tag "prototype" ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<body>\n"
+@output_buffer.concat "<form name=\"myform\" >\n"
+@output_buffer.concat "<div align=\"left\">\n"
+@output_buffer.concat "<br><br>\n"
+@output_buffer.concat "<textarea cols=\"40\" rows=\"5\" name=\"myname\">\n"
+@output_buffer.concat "Oh shit son.\n"
+@output_buffer.concat "</textarea>\n"
+@output_buffer.concat "<br><br>\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "<div id = \"graph_div\">\n"
+@output_buffer.concat(( button_to_function( "Submit",
+                   :action => :say_when }) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "</form>\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/Users/Owner/Rails/Project/app/views/item/new.html.erb:26:in `compile!'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/head.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/methodoverride.rb:24:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `synchronize'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:46:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:40:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/urlmap.rb:40:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/content_length.rb:13:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/handler/webrick.rb:46:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/handler/webrick.rb:13:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/Users/Owner/Rails/Project/app/views/item/new.html.erb:18: syntax error, unexpected '}', expecting ')'
+                   :action => :say_when }) ).to_s); @output_buffer.concat "\n"
+                                         ^) on line #18 of app/views/item/new.html.erb:
+15: </div>
+16: <div id = "graph_div">
+17: <%= button_to_function( "Submit",
+18:                    :action => :say_when }) %>
+19: </div>
+20: </form>
+21: </body>
+
+    app/views/item/new.html.erb:26:in `compile!'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (67.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:31:38) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:38:19) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 16ms (View: 9, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:38:41) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 78ms (View: 70, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:39:14) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:39:34) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:40:09) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:42:11) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 00:45:02) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 18ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 00:45:04) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:02:00) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:02:02) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:28:32) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 22ms (View: 13, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:28:32) [GET]
+
+ActionController::RoutingError (No route matches "/item/graph.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:28:32) [GET]
+
+ActionController::RoutingError (No route matches "/item/text_area.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:28:32) [GET]
+
+ActionController::RoutingError (No route matches "/item/text_field.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:29:28) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 5, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:29:28) [GET]
+
+ActionController::RoutingError (No route matches "/item/graph.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:29:28) [GET]
+
+ActionController::RoutingError (No route matches "/item/text_area.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 01:29:28) [GET]
+
+ActionController::RoutingError (No route matches "/item/text_field.html.erb" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:30:29) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:30:29) [GET]
+Rendering item/graph
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:30:29) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:30:29) [GET]
+Rendering item/text_field
+Completed in 19ms (View: 13, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:31:08) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:31:08) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:31:08) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:31:08) [GET]
+Rendering item/text_field
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:33:39) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 69ms (View: 5, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:33:39) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:33:39) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:33:39) [GET]
+Rendering item/text_field
+Completed in 12ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:34:54) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:39:43) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:39:43) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:39:43) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:39:43) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:39:55) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:39:58) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:39:59) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:00) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:01) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:01) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:03) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:04) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:04) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:40:05) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:40:07) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 11ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:40:07) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:40:07) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:40:07) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:42:28) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:42:29) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:42:29) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:42:29) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:44:31) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:44:31) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:44:31) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:44:31) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:45:36) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 8, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:45:36) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:45:36) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:45:36) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:45:53) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 17ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:45:53) [GET]
+Rendering item/graph
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:45:53) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:45:53) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:46:07) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 12ms (View: 5, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:46:07) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:46:07) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:46:07) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:46:31) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:46:31) [GET]
+Rendering item/graph
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:46:31) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:46:31) [GET]
+Rendering item/text_field
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:48:25) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:48:25) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:48:25) [GET]
+Rendering item/instructions
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:48:25) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:49:38) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:49:38) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:49:38) [GET]
+Rendering item/instructions
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:49:38) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:49:38) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:51:10) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 16ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:51:11) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:51:11) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:51:11) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:51:11) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:51:24) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 13ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:51:24) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:51:24) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:51:25) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:51:25) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:51:55) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 16ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:51:55) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:51:55) [GET]
+Rendering item/text_area
+Completed in 60ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:51:55) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:51:56) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:52:21) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 15ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:52:21) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:52:21) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:52:21) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:52:21) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:52:36) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 5, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:52:36) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:52:36) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:52:36) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:52:36) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:57:51) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:57:51) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:57:51) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:57:51) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:57:51) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:57:53) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:57:56) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:02) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:03) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:04) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:05) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:05) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:05) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:58:08) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:58:08) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:58:08) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:58:08) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:58:08) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:58:20) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:58:20) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:58:20) [GET]
+Rendering item/text_area
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:58:21) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:58:21) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:22) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:23) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:58:24) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:59:30) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:59:30) [GET]
+Rendering item/graph
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:59:30) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:59:30) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:59:30) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:59:32) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:59:33) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 01:59:34) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 01:59:59) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 01:59:59) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 01:59:59) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 01:59:59) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 01:59:59) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:00:01) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:00:02) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:00:04) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:00:04) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:00:04) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:00:04) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:00:04) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:01:59) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 14ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:01:59) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:01:59) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:01:59) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:01:59) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:02:02) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:02:08) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:02:08) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:02:08) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:02:08) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:02:08) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:02:11) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:02:11) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:02:13) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:02:13) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:02:15) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:02:15) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:02:15) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:02:15) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:02:15) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:02:57) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:02:57) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:02:57) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:02:57) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:02:57) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:03:14) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:03:14) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:03:14) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:03:14) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:03:18) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:03:18) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:03:18) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:03:19) [GET]
+Rendering item/instructions
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:03:24) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:03:25) [GET]
+Rendering item/text_area
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:03:25) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:03:25) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:04:00) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:04:00) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:04:00) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:04:00) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:04:10) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:04:10) [GET]
+Rendering item/graph
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:04:10) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:04:10) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:04:11) [GET]
+Rendering item/instructions
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:05:57) [GET]
+Rendering item/new
+Completed in 14ms (View: 6, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:05:57) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:05:57) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:05:57) [GET]
+Rendering item/instructions
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:05:57) [GET]
+Rendering item/text_area
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:07:04) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:07:04) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:07:04) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:07:04) [GET]
+Rendering item/text_field
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:07:04) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:07:14) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:07:14) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:07:14) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:07:14) [GET]
+Rendering item/text_field
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:07:15) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:07:25) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:07:25) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:07:25) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:07:25) [GET]
+Rendering item/text_field
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:07:26) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:08:19) [GET]
+Rendering item/new
+Completed in 12ms (View: 5, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:08:19) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:08:19) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:08:19) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:08:19) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:08:48) [GET]
+Rendering item/new
+Completed in 67ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:08:48) [GET]
+Rendering item/text_area
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:08:49) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:08:49) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:09:27) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:09:27) [GET]
+Rendering item/text_area
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:09:28) [GET]
+Rendering item/text_field
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:09:28) [GET]
+Rendering item/instructions
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:19:13) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:19:13) [GET]
+Rendering item/text_area
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:19:13) [GET]
+Rendering item/text_field
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:19:13) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:19:16) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:19:19) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:20:04) [GET]
+Rendering item/new
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:20:04) [GET]
+Rendering item/text_area
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:20:04) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:20:04) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 02:21:42) [GET]
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: syntax error, unexpected '<'
+    <html>
+     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:13: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+    Click <a href="http://www.google.com" target="graph">here</a>
+                 ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:13: syntax error, unexpected tIDENTIFIER, expecting kEND
+    Click <a href="http://www.google.com" target="graph">here</a>
+                                                ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: unknown regexp options - htl
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:15: syntax error, unexpected kEND):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (50.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-19 02:21:46) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+
+SyntaxError (C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:12: syntax error, unexpected '<'
+    <html>
+     ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:13: syntax error, unexpected tIDENTIFIER, expecting kDO or '{' or '('
+    Click <a href="http://www.google.com" target="graph">here</a>
+                 ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:13: syntax error, unexpected tIDENTIFIER, expecting kEND
+    Click <a href="http://www.google.com" target="graph">here</a>
+                                                ^
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:14: unknown regexp options - htl
+C:/Users/Owner/Rails/Project/app/controllers/item_controller.rb:15: syntax error, unexpected kEND):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (56.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:22:57) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:22:57) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:22:57) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:22:57) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:22:57) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:23:38) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:23:38) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:23:38) [GET]
+Rendering item/text_area
+Completed in 72ms (View: 70, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:23:38) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:23:38) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:34:46) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:34:46) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:34:46) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:35:49) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:35:49) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:35:49) [GET]
+Rendering item/text_area
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:35:49) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:35:49) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:51) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:52) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:53) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:55) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:55) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:57) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:35:58) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:37:16) [GET]
+  Parameters: {"myname"=>"Oh shit son.\r\n"}
+Rendering item/new
+Completed in 8ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new?myname=Oh+shit+son.%0D%0A]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:37:16) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:37:16) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:37:16) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:37:16) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:37:25) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 02:37:25) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:37:25) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:37:25) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:37:25) [GET]
+Rendering item/instructions
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:31) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:32) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:33) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:34) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:35) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:38) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:37:41) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:37:41) [GET]
+Rendering item/text_area
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:37:41) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:37:41) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:43) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:43) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 02:37:44) [POST]
+  Parameters: {"authenticity_token"=>"cXDBa9Bid2itut23XU2a1xH9jQT06bHKGtEaR7/7xvY="}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 02:37:47) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 02:37:47) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 02:37:47) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 02:37:47) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:13:11) [GET]
+Rendering item/new
+Completed in 19ms (View: 12, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 12:13:11) [GET]
+Rendering item/graph
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:13:11) [GET]
+Rendering item/text_area
+Completed in 3020ms (View: 3018, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:13:14) [GET]
+Rendering item/text_field
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:13:14) [GET]
+Rendering item/instructions
+Completed in 13ms (View: 8, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:14:22) [POST]
+  Parameters: {"authenticity_token"=>"AzWeIeK84Fj+DctehDZCMU+LQI5ZTLslKWyVNwvRpBQ="}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (59.0ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:14:25) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:14:26) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:14:35) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:14:36) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:15:57) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:15:57) [GET]
+Rendering item/text_area
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:15:58) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:15:58) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:16:25) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:16:29) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:16:29) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:16:29) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:16:29) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:04) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:05) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:05) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:06) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:07) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:09) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:17:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:17:12) [GET]
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:17:12) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:17:12) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:17:12) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:41:23) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:41:23) [GET]
+Rendering item/text_area
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:41:23) [GET]
+Rendering item/text_field
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:41:23) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:41:29) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:41:30) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:41:31) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:41:31) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:41:31) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:41:31) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:41:46) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:41:46) [GET]
+Rendering item/text_area
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:41:46) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:41:46) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:41:53) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 12:41:53) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:41:54) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:41:54) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:41:54) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 12:55:33) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 12:55:33) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 12:55:33) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 12:55:33) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 12:55:33) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 12:55:43) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw="}
+  [4;36;1mSQL (1.0ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+NoMethodError (undefined method `say_when' for Item(id: integer, created_at: datetime, updated_at: datetime):Class):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (108.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:14:58) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:14:58) [GET]
+Rendering item/graph
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:14:58) [GET]
+Rendering item/text_area
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:14:58) [GET]
+Rendering item/text_field
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:14:58) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:15:00) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:15:01) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:15:03) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:15:04) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:34:36) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:34:36) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:34:36) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:34:36) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:34:36) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:34:38) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+  [4;35;1mSQL (1.0ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+NoMethodError (undefined method `say_when' for Item(id: integer, created_at: datetime, updated_at: datetime):Class):
+  app/controllers/item_controller.rb:12:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (53.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:35:15) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:35:15) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:35:15) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:35:15) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:35:15) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:35:17) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+  [4;36;1mItem Create (1.0ms)[0m   [0;1mINSERT INTO "items" ("updated_at", "created_at") VALUES('2009-04-19 17:35:17', '2009-04-19 17:35:17')[0m
+Rendering item/say_when
+Completed in 182ms (View: 3, DB: 1) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:35:18) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+  [4;35;1mItem Create (1.0ms)[0m   [0mINSERT INTO "items" ("updated_at", "created_at") VALUES('2009-04-19 17:35:18', '2009-04-19 17:35:18')[0m
+Rendering item/say_when
+Completed in 20ms (View: 2, DB: 1) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:35:19) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+  [4;36;1mItem Create (1.0ms)[0m   [0;1mINSERT INTO "items" ("updated_at", "created_at") VALUES('2009-04-19 17:35:19', '2009-04-19 17:35:19')[0m
+Rendering item/say_when
+Completed in 19ms (View: 2, DB: 1) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:35:22) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+  [4;35;1mItem Create (1.0ms)[0m   [0mINSERT INTO "items" ("updated_at", "created_at") VALUES('2009-04-19 17:35:22', '2009-04-19 17:35:22')[0m
+Rendering item/say_when
+Completed in 19ms (View: 2, DB: 1) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:35:23) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:35:23) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:35:23) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:35:23) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:35:23) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:43:06) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:43:06) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:43:07) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:43:07) [GET]
+Rendering item/text_field
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:43:07) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:43:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:43:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:43:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:43:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:43:11) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:43:13) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:43:13) [GET]
+Rendering item/graph
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:43:13) [GET]
+Rendering item/text_area
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:43:13) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:43:13) [GET]
+Rendering item/text_field
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:45:18) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:45:32) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:46:01) [GET]
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:46:01) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:46:01) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:46:01) [GET]
+Rendering item/instructions
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:46:01) [GET]
+Rendering item/text_field
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:46:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:46:38) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:46:40) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 13:46:45) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>""}
+Rendering item/say_when
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 13:46:58) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 13:46:58) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 13:46:58) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 13:46:58) [GET]
+Rendering item/text_field
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 13:46:58) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:01:08) [GET]
+Rendering item/new
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:01:08) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:01:08) [GET]
+Rendering item/text_area
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:01:08) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:01:08) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:01:38) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:01:38) [GET]
+Rendering item/graph
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:01:38) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:01:38) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:01:38) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:01:43) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:01:43) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:01:44) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:01:44) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:01:45) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:04:26) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:04:26) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:04:26) [GET]
+Rendering item/text_area
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:04:26) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:04:26) [GET]
+Rendering item/instructions
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:04:28) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.split):
+  app/controllers/item_controller.rb:14:in `say_when'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (55.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:05:20) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:05:20) [GET]
+Rendering item/graph
+Completed in 62ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:05:20) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:05:20) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:05:20) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:05:22) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:06:07) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:06:07) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:06:07) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:06:07) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:06:08) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:09) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:10) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:11) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:12) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:12) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:13) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:16) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:17) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:06:18) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "text_id"=>"undefined"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:08:44) [GET]
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:08:45) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:08:45) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:08:45) [GET]
+Rendering item/text_field
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:08:45) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:46) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:48) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:49) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:49) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:50) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:51) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:53) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:54) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:54) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:08:55) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:00) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:01) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:02) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:03) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:04) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:05) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:07) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:09) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:11) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:14) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:14) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:15) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:17) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:20) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:20) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:21) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:22) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:22) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:23) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:24) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:25) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:25) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:26) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:27) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:28) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:29) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:30) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 5ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:09:34) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:09:34) [GET]
+Rendering item/graph
+Completed in 8ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:09:34) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:09:34) [GET]
+Rendering item/text_field
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:09:34) [GET]
+Rendering item/instructions
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:36) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:37) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:38) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:38) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:39) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:40) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:41) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:42) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:42) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:09:43) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex and shit."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:09:57) [GET]
+Rendering item/new
+Completed in 12ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:09:57) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:09:57) [GET]
+Rendering item/text_area
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:09:57) [GET]
+Rendering item/text_field
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:09:57) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:37) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:38) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:49) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:51) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:52) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:54) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:56) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:57) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:10:58) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Word bitch."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:37:30) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:37:30) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#text_area (for 127.0.0.1 at 2009-04-19 14:37:30) [GET]
+Rendering item/text_area
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/text_area]
+
+
+Processing ItemController#text_field (for 127.0.0.1 at 2009-04-19 14:37:30) [GET]
+Rendering item/text_field
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/item/text_field]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:37:30) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:45:11) [GET]
+Rendering item/new
+Completed in 14ms (View: 7, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:45:11) [GET]
+Rendering item/graph
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:45:11) [GET]
+Rendering item/instructions
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:45:46) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:45:47) [GET]
+Rendering item/graph
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:45:47) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:45:54) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:46:07) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:46:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:46:13) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:46:14) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Regex"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:46:19) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"suck it"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:46:24) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:46:24) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:46:24) [GET]
+Rendering item/instructions
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:47:29) [GET]
+Rendering item/new
+Completed in 10ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:47:29) [GET]
+Rendering item/graph
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:47:29) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:47:32) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text.\r\n"}
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:47:42) [GET]
+Rendering item/new
+Completed in 13ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:47:42) [GET]
+Rendering item/graph
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:47:42) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:47:58) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:47:58) [GET]
+Rendering item/graph
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:47:58) [GET]
+Rendering item/instructions
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:48:17) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son, graph text."}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:48:28) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Oh shit son,"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:49:01) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:49:01) [GET]
+Rendering item/graph
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:49:02) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:58:03) [GET]
+Rendering item/new
+Completed in 8ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:58:03) [GET]
+Rendering item/graph
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:58:03) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:58:08) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>""}
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:58:11) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"jhgfkhgfkgfkg"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 14:58:18) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"jhgjhgjgh\r\nljnvkgvoufuyg;ju\r\njhboyuhgouygulg"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 14:58:47) [GET]
+Rendering item/new
+Completed in 11ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 14:58:47) [GET]
+Rendering item/graph
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 14:58:47) [GET]
+Rendering item/instructions
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 15:55:44) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Filler sucks."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 15:55:54) [GET]
+Rendering item/new
+Completed in 9ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 15:55:54) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 15:55:54) [GET]
+Rendering item/instructions
+Completed in 12ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 20:37:54) [GET]
+Rendering item/new
+Completed in 9ms (View: 2, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 20:37:54) [GET]
+Rendering item/graph
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 20:37:54) [GET]
+Rendering item/instructions
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 20:38:18) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"Filler sucks."}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 20:38:23) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>"kjhgfkhgf"}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 20:38:26) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>",jhytf"}
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 20:38:31) [POST]
+  Parameters: {"authenticity_token"=>"4UyPR4BNJO6m5RP5YUdSU+2foWAEicmBcRootUE95zw=", "myname"=>""}
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-19 21:53:55) [GET]
+
+ActionController::RoutingError (No route matches "/home/index" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 21:54:40) [GET]
+Rendering item/new
+Completed in 56ms (View: 36, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 21:54:40) [GET]
+Rendering item/instructions
+Completed in 34ms (View: 33, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 21:54:40) [GET]
+Rendering item/graph
+Completed in 101ms (View: 99, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 21:55:01) [POST]
+  Parameters: {"authenticity_token"=>"PtiObK2fUwqxDYn0AS5UuPdOO1Cw4/5AYQYbMjlGgRU=", "myname"=>"Oh shit son, graph text.\n", "graph_submit"=>"Submit Graph", "regex_submit"=>"Submit Regex", "_"=>""}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 21:55:06) [POST]
+  Parameters: {"authenticity_token"=>"PtiObK2fUwqxDYn0AS5UuPdOO1Cw4/5AYQYbMjlGgRU=", "myname"=>"Oh shit son, graph text.\n", "graph_submit"=>"Submit Graph", "regex_submit"=>"Submit Regex", "_"=>""}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 22:14:26) [GET]
+Rendering item/new
+Completed in 67ms (View: 20, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 22:14:26) [GET]
+Rendering item/instructions
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/item/instructions]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 22:14:26) [GET]
+Rendering item/graph
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#say_when (for 127.0.0.1 at 2009-04-19 22:14:33) [POST]
+  Parameters: {"authenticity_token"=>"PtiObK2fUwqxDYn0AS5UuPdOO1Cw4/5AYQYbMjlGgRU=", "myname"=>"Oh shit son, graph text.\n", "graph_submit"=>"Submit Graph", "regex_submit"=>"Submit Regex", "_"=>""}
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/item/say_when]
+
+
+Processing ItemController#new (for 127.0.0.1 at 2009-04-19 22:20:52) [GET]
+Rendering item/new
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/item/new]
+
+
+Processing ItemController#graph (for 127.0.0.1 at 2009-04-19 22:20:52) [GET]
+Rendering item/graph
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/graph]
+
+
+Processing ItemController#instructions (for 127.0.0.1 at 2009-04-19 22:20:52) [GET]
+Rendering item/instructions
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/item/instructions]
